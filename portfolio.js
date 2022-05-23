@@ -68,11 +68,11 @@ textInEnglish = ['<span class="rainbow">&lt;</span>Presentation<span class="rain
     "",
     "This website ins't online anymore. It was used to promote an association.",
     "",
-    'This game is under development. The gif is a bit laggy but the game isn\'t as he run stable on 60fps on mobile. The main mechanics are set up, most of the remaining work lays in UI and making great graphics. If you wanna try it you can download the .apk file for Android <a href="otherfiles/Evade!_0.3.apk">here</a>.',
+    'This game is under development. The gif is a bit laggy but the game isn\'t as he run stable on 60fps on mobile. The main mechanics are set up, most of the remaining work lays in UI and making great graphics.',
     '', 
     "That game is a group project where we had to use Java to make a game. We choose to make a chess game.",
     '',
-    'This game is a group project where we had to use PHP, SQL and JavaScript. We decided to make a little game where you have to evade obstacles. We stock the scores on a free MySql database and display them in a table. You can play online <a href="https://baele.fr/Projet">here</a>.',
+    'This game is a group project where we had to use PHP, SQL and JavaScript. We decided to make a little game where you have to evade obstacles. We stock the scores on a free MySql database and display them in a table.',
     'Feel free to contact me. You can send me a mail at theofonchain@protonmail.com.'];
 textInFrench = [
     '<span class="rainbow">&lt;</span>Présentation<span class="rainbow">&gt;</span>',
@@ -93,11 +93,11 @@ textInFrench = [
     "",
     "Ce site internet n'est plus en ligne. Il était utilisé pour promouvoir une association.",
     "",
-    'Ce jeu est en cours de développement. Le gif donne une impression de lag mais le jeu est bien stable à 60fps sur mobile. Les méchaniques de jeu marchent très bien, la plupart du travail restant concerne l\'UI (l\'interface utilisateur) et les graphismes. Si vous voulez essayer, vous pouvez télécharger le fichier .apk pour Android <a href="otherfiles/Evade!_0.3.apk">içi</a>.',
+    'Ce jeu est en cours de développement. Le gif donne une impression de lag mais le jeu est bien stable à 60fps sur mobile. Les méchaniques de jeu marchent très bien, la plupart du travail restant concerne l\'UI (l\'interface utilisateur) et les graphismes.</a>.',
     '',
     "Ce jeu est un projet de groupe, où nous devions réaliser un jeu en Java. Nous avons choisi de faire un jeu d'échecs.",
     '',
-    'Ce jeu est un projet de groupe, où nous devions utiliser PHP, SQL and JavaScript. Nous avons décidé de faire un jeu simple où l\'on doit esquiver des obstacles. Nous stockons les scores dans une base de données MySql gratutie et on les affiche dans un tableau. Vous pouvez jouez en ligne maintenant <a href="https://baele.fr/Projet">içi</a>.',
+    'Ce jeu est un projet de groupe, où nous devions utiliser PHP, SQL and JavaScript. Nous avons décidé de faire un jeu simple où l\'on doit esquiver des obstacles. Nous stockons les scores dans une base de données MySql gratuite et on les affiche dans un tableau.',
     'N\'hésitez pas à me contacter. Vous pouvez m\'envoyer un mail à l\'adresse theofonchain@protonmail.com.'];
 
 for (let y = 0; y < elementTagToSwitch.length; y++) {
