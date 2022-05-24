@@ -73,7 +73,9 @@ textInEnglish = ['<span class="rainbow">&lt;</span>Presentation<span class="rain
     "That game is a group project where we had to use Java to make a game. We choose to make a chess game.",
     '',
     'This game is a group project where we had to use PHP, SQL and JavaScript. We decided to make a little game where you have to evade obstacles. We stock the scores on a free MySql database and display them in a table.',
-    'Feel free to contact me. You can send me a mail at my personal adress theofonchain@protonmail.com or at my profesional one theo.fonchain@epita.fr.'];
+    'Feel free to contact me. You can send me a mail at my personal adress theofonchain@protonmail.com or N'hésitez pas à me contacter. Vous pouvez m'envoyer un mail à mon adresse personnelle theofonchain@protonmail.com ou à mon adresse professionnelle theo.fonchain@epita.fr.
+
+at my profesional one theo.fonchain@epita.fr.'];
 textInFrench = [
     '<span class="rainbow">&lt;</span>Présentation<span class="rainbow">&gt;</span>',
     '<span class="rainbow">&lt;</span>Compétences<span class="rainbow">&gt;</span>',
@@ -98,7 +100,7 @@ textInFrench = [
     "Ce jeu est un projet de groupe, où nous devions réaliser un jeu en Java. Nous avons choisi de faire un jeu d'échecs.",
     '',
     'Ce jeu est un projet de groupe, où nous devions utiliser PHP, SQL and JavaScript. Nous avons décidé de faire un jeu simple où l\'on doit esquiver des obstacles. Nous stockons les scores dans une base de données MySql gratuite et on les affiche dans un tableau.',
-    'N\'hésitez pas à me contacter. Vous pouvez m\'envoyer un mail à mon adresse personnelle theofonchain@protonmail.com ou à mon adresse professionnelle theo.fonchain@epita.fr.'];
+    'N\'hésitez pas à me contacter. Vous pouvez m\'envoyer un mail sur mon adresse personnelle theofonchain@protonmail.com ou bien sur mon adresse professionnelle theo.fonchain@epita.fr.'];
 
 for (let y = 0; y < elementTagToSwitch.length; y++) {
     tempp.push(document.getElementsByTagName(elementTagToSwitch[y]));
