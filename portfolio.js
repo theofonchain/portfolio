@@ -73,7 +73,7 @@ textInEnglish = ['<span class="rainbow">&lt;</span>Presentation<span class="rain
     "That game is a group project where we had to use Java to make a game. We choose to make a chess game.",
     '',
     'This game is a group project where we had to use PHP, SQL and JavaScript. We decided to make a little game where you have to evade obstacles. We stock the scores on a free MySql database and display them in a table.',
-    'Feel free to contact me. You can send me a mail at my personal adress theofonchain@protonmail.com or N'hésitez pas à me contacter. Vous pouvez m'envoyer un mail à mon adresse personnelle theofonchain@protonmail.com ou à mon adresse professionnelle theo.fonchain@epita.fr.
+    "Feel free to contact me. You can send me a mail at my personal adress theofonchain@protonmail.com or N'hésitez pas à me contacter. Vous pouvez m'envoyer un mail à mon adresse personnelle theofonchain@protonmail.com ou à mon adresse professionnelle theo.fonchain@epita.fr."];
 
 at my profesional one theo.fonchain@epita.fr.'];
 textInFrench = [
