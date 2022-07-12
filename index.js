@@ -72,7 +72,6 @@ textInFrench = [
 "",
 "",
 "",
-"",
 "Pare-feux",
 ""
 ];
@@ -138,7 +137,6 @@ textInEnglish = [
 "",
 "OSI model",
 "CISCO routers and switches",
-"",
 "",
 "",
 "",
