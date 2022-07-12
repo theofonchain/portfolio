@@ -44,6 +44,9 @@ header{
 .menu:hover>ul{
     display: list-item;
 }
+.menu:active>ul{
+    display: list-item;
+}
 .menu>ul>li{
     padding: 10px;
     text-align: left;
